@@ -7,5 +7,5 @@ Ingredients:
 * paprika
 
 Instructions:
-* mix
+* mix everything together
 * mash it up 
